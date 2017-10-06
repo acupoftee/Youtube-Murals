@@ -1,0 +1,1791 @@
+https://www.youtube.com/api/timedtext?v=rpJgJkzHgV8&sparams=asr_langs%2Ccaps%2Cv%2Cexpire&asr_langs=ru%2Ces%2Cfr%2Cit%2Cko%2Cde%2Cen%2Cpt%2Cja%2Cnl&key=yttt1&signature=718910888E95428C17B3AE3CE3190A325C641DBA.D9EE85E964DB5ACF5C6FE506BC2196A761A1F334&expire=1507238796&caps=asr&hl=en_US&kind=asr&lang=en&fmt=srv1
+
+container to add topigram: <div id="container" class="style-scope ytd-watch">
+        <div id="main" class="style-scope ytd-watch">
+          <ytd-playlist-panel-renderer id="playlist" class="style-scope ytd-watch" disable-upgrade="" hidden="">
+          </ytd-playlist-panel-renderer>
+          <ytd-transcript-loader id="transcript-loader" class="style-scope ytd-watch" hidden="" tabindex="-1">
+    <div id="transcript" class="ytd-watch style-scope ytd-transcript-loader"></div>
+  </ytd-transcript-loader>
+          
+          <template is="dom-if" restamp="" class="style-scope ytd-watch"></template>
+          <div id="related" class="style-scope ytd-watch">
+            <div id="player-ads" class="style-scope ytd-watch"><ytd-player-legacy-desktop-watch-ads-renderer class="style-scope ytd-watch">
+    <ytd-companion-legal-text-renderer class="style-scope ytd-player-legacy-desktop-watch-ads-renderer" disable-upgrade="" hidden="">
+    </ytd-companion-legal-text-renderer>
+    <ytd-companion-slot-renderer class="style-scope ytd-player-legacy-desktop-watch-ads-renderer">
+    <div id="companion" class="style-scope ytd-companion-slot-renderer"><ytd-iframe-companion-renderer class="style-scope ytd-companion-slot-renderer">
+    <div id="scripts" class="style-scope ytd-iframe-companion-renderer"></div>
+    <div id="container" class="style-scope ytd-iframe-companion-renderer" style=""><iframe width="370" height="210" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://www.youtube.com/ad_companion?adformat=15_2_1&amp;p=UCMkjTYlElTRBa3SUwiyI-5Q&amp;render=video_wall_companion&amp;content=yUjlBfmkO6g&amp;polymer=1" class="style-scope ytd-iframe-companion-renderer"></iframe></div>
+  </ytd-iframe-companion-renderer></div>
+  </ytd-companion-slot-renderer>
+  </ytd-player-legacy-desktop-watch-ads-renderer></div>
+            <ytd-watch-next-secondary-results-renderer class="style-scope ytd-watch">
+    <div id="offer-module" class="style-scope ytd-watch-next-secondary-results-renderer"></div>
+    <div id="items" class="style-scope ytd-watch-next-secondary-results-renderer"><ytd-compact-autoplay-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="head" class="style-scope ytd-compact-autoplay-renderer">
+      <div id="upnext" class="style-scope ytd-compact-autoplay-renderer">Up next</div>
+      <div id="autoplay" class="style-scope ytd-compact-autoplay-renderer">Autoplay</div>
+      <paper-toggle-button id="toggle" class="style-scope ytd-compact-autoplay-renderer" role="button" aria-pressed="true" tabindex="0" style="touch-action: pan-y;" toggles="" aria-disabled="false" aria-label="Autoplay" checked="" active=""><div class="toggle-container style-scope paper-toggle-button"><div id="toggleBar" class="toggle-bar style-scope paper-toggle-button"></div><div id="toggleButton" class="toggle-button style-scope paper-toggle-button"></div></div><div class="toggle-label style-scope paper-toggle-button">
+      </div></paper-toggle-button>
+      <paper-tooltip id="tooltip" for="toggle" class="style-scope ytd-compact-autoplay-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      When autoplay is enabled, a suggested video will automatically play next.
+    </div>
+  </paper-tooltip>
+    </div>
+    
+      <ytd-compact-video-renderer class="style-scope ytd-compact-autoplay-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=hN7tp3jcKcs">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/hN7tp3jcKcs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBHLWC3Dc0mv7K6xO6EoGs0NDEcSA"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 5 minutes">
+      1:05:27
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=hN7tp3jcKcs">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="1 Hour Sad Piano Music - lonely day 【BGM】 by The Soul of Wind 6 days ago 1 hour, 5 minutes 49,076 views" title="1 Hour Sad Piano Music - lonely day 【BGM】">
+            1 Hour Sad Piano Music - lonely day 【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">49K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer">
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">New</span>
+      </div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer>
+    <template is="dom-repeat" as="content" class="style-scope ytd-compact-autoplay-renderer"></template>
+  </ytd-compact-autoplay-renderer><ytd-compact-radio-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <ytd-thumbnail height="94" width="168" class="style-scope ytd-compact-radio-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=yUjlBfmkO6g&amp;list=RDyUjlBfmkO6g">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/yUjlBfmkO6g/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAr93vL18t9mLthYL_Fn3h-HxnOFw"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-side-panel-renderer class="style-scope ytd-thumbnail" style="width: 74px;">
+    <yt-formatted-string class="style-scope ytd-thumbnail-overlay-side-panel-renderer">50+</yt-formatted-string>
+    <yt-icon class="style-scope ytd-thumbnail-overlay-side-panel-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M20.3 11.95c0 2.46-.95 4.7-2.47 6.32l1.07 1.13c1.8-1.92 2.9-4.55 2.9-7.45 0-2.9-1.12-5.54-2.9-7.45l-1.07 1.13c1.52 1.62 2.46 3.86 2.46 6.32zm-17 0c0-2.46.93-4.7 2.45-6.32L4.7 4.5c-1.8 1.9-2.9 4.54-2.9 7.45 0 2.9 1.1 5.53 2.9 7.45l1.05-1.13C4.23 16.64 3.3 14.4 3.3 11.95zm3 0c0-1.6.6-3.03 1.57-4.08L6.8 6.75c-1.24 1.34-2 3.17-2 5.2 0 2.03.76 3.86 2 5.2l1.07-1.12c-.97-1.06-1.58-2.5-1.58-4.08zm10.47-5.2L15.7 7.87c1 1.05 1.6 2.5 1.6 4.08 0 1.6-.6 3.02-1.6 4.08l1.07 1.12c1.25-1.34 2.02-3.17 2.02-5.2 0-2.03-.8-3.86-2.05-5.2zm-6.64 2.93l4.16 2.3-4.2 2.3v-4.6z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+  </ytd-thumbnail-overlay-side-panel-renderer><ytd-thumbnail-overlay-hover-text-renderer class="style-scope ytd-thumbnail">
+    <yt-icon class="style-scope ytd-thumbnail-overlay-hover-text-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M8 5v14l11-7z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+    <span class="style-scope ytd-thumbnail-overlay-hover-text-renderer">Play all</span>
+  </ytd-thumbnail-overlay-hover-text-renderer></div>
+    </a>
+  </ytd-thumbnail>
+    <a is="yt-endpoint" id="title" class="style-scope ytd-compact-radio-renderer" href="/watch?v=yUjlBfmkO6g&amp;list=RDyUjlBfmkO6g">
+      <h3 class="style-scope ytd-compact-radio-renderer">
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-radio-renderer">
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        <span id="video-title" class="style-scope ytd-compact-radio-renderer" title="Mix - 3 Hour Relaxing Piano Music. Healing Music for Stress Relief, Sleep Music【BGM】">
+          Mix - 3 Hour Relaxing Piano Music. Healing Music for Stress Relief, Sleep Music【BGM】
+        </span>
+      </h3>
+      <ytd-video-meta-block class="compact style-scope ytd-compact-radio-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">YouTube</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+    </a>
+  </ytd-compact-radio-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=HSOtku1j600">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/HSOtku1j600/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCKm00KsC2hG2NpoSqEF58ySvpXTg"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="2 hours, 12 minutes">
+      2:12:26
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=HSOtku1j600">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="2 Hour Beautiful Piano Music for Studying and Sleeping 【BGM】 by The Soul of Wind 8 months ago 2 hours, 12 minutes 9,502,698 views" title="2 Hour Beautiful Piano Music for Studying and Sleeping 【BGM】">
+            2 Hour Beautiful Piano Music for Studying and Sleeping 【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">9.5M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=Z1z-8SblQnA">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/Z1z-8SblQnA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBVu86T2gy2Ez7_R3qK69LrjARm8w"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="3 hours, 17 minutes">
+      3:17:21
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=Z1z-8SblQnA">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Fantasy Nature! Relaxing Piano Music for Stress Relief. Healing Music, Sleep Music, Meditation Music by The Soul of Wind 4 days ago 3 hours, 17 minutes 22,776 views" title="Fantasy Nature! Relaxing Piano Music for Stress Relief. Healing Music, Sleep Music, Meditation Music">
+            Fantasy Nature! Relaxing Piano Music for Stress Relief. Healing Music, Sleep Music, Meditation Music
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">22K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer">
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">New</span>
+      </div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=2mrOQMMkZzM">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/2mrOQMMkZzM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDIX3VJOdY3Fgflwn5RJzNph-QR2A"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="5 hours">
+      5:02:57
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=2mrOQMMkZzM">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="5-Hour Anime Music Mix - Beautiful &amp; Emotional Anime Soundtracks by The Soul of Wind 11 months ago 5 hours 76,607 views" title="5-Hour Anime Music Mix - Beautiful &amp; Emotional Anime Soundtracks">
+            5-Hour Anime Music Mix - Beautiful &amp; Emotional Anime Soundtracks
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">76K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=Ss92Eph04As">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/Ss92Eph04As/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBMgxv988fiFYIxIrzRcDKUddrkLA"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 17 minutes">
+      1:17:36
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=Ss92Eph04As">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Sad &amp; Beautiful Fairy Tail OST | Pure Sadness Anime Music【BGM】 by The Soul of Wind 1 month ago 1 hour, 17 minutes 66,702 views" title="Sad &amp; Beautiful Fairy Tail OST | Pure Sadness Anime Music【BGM】">
+            Sad &amp; Beautiful Fairy Tail OST | Pure Sadness Anime Music【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">66K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=H5ohDQ-umHM">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/H5ohDQ-umHM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBySC1ak6hjKrXRBfG5LOq7BPtmZw"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 2 minutes">
+      1:02:44
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=H5ohDQ-umHM">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Shigatsu wa Kimi no Uso OST - 1 Hour Beautiful Relaxing Piano Music (四月は君の嘘 Soundtracks) by The Soul of Wind 7 months ago 1 hour, 2 minutes 533,459 views" title="Shigatsu wa Kimi no Uso OST - 1 Hour Beautiful Relaxing Piano Music (四月は君の嘘 Soundtracks)">
+            Shigatsu wa Kimi no Uso OST - 1 Hour Beautiful Relaxing Piano Music (四月は君の嘘 Soundtracks)
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">533K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=RL977y-0Dyk">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/RL977y-0Dyk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCFVi35kf6i-8Qi115uZdqd_lt4jQ"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 16 minutes">
+      1:16:52
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=RL977y-0Dyk">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="1 Hour Beautiful Piano &amp; Instrument - Sad Inuyasha OST by The Soul of Wind 5 months ago 1 hour, 16 minutes 1,356,200 views" title="1 Hour Beautiful Piano &amp; Instrument - Sad Inuyasha OST">
+            1 Hour Beautiful Piano &amp; Instrument - Sad Inuyasha OST
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">1.3M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=NliYy7iqh-U">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="168" src="https://i.ytimg.com/vi/NliYy7iqh-U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAspQPFQW3MyBElajlxtpZcLz34UA"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 7 minutes">
+      1:07:08
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=NliYy7iqh-U">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Relaxing Music Mix | BEAUTIFUL PIANO by Epic Music World 1 year ago 1 hour, 7 minutes 14,722,772 views" title="Relaxing Music Mix | BEAUTIFUL PIANO">
+            Relaxing Music Mix | BEAUTIFUL PIANO
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">Epic Music World</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">14M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=1Rwwg-wj9qw">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour">
+      1:00:47
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=1Rwwg-wj9qw">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="【作業用BGM】テンションが上がるサントラ！皆に一度は聴いてほしい最強アニソンメドレー集part3 by Anison mEDley!! 2 days ago 1 hour 3,672 views" title="【作業用BGM】テンションが上がるサントラ！皆に一度は聴いてほしい最強アニソンメドレー集part3">
+            【作業用BGM】テンションが上がるサントラ！皆に一度は聴いてほしい最強アニソンメドレー集part3
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer byline-separated" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">Anison mEDley!!</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">3.6K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer">
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">New</span>
+      </div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=1QCK_gFGi90">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour">
+      1:00:56
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=1QCK_gFGi90">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Tokyo Ghoul OST Mix - Relaxing Piano Anime Music by The Soul of Wind 1 year ago 1 hour 2,301,197 views" title="Tokyo Ghoul OST Mix - Relaxing Piano Anime Music">
+            Tokyo Ghoul OST Mix - Relaxing Piano Anime Music
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">2.3M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=uMjPZ_wEWzc">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="2 hours">
+      2:00:39
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=uMjPZ_wEWzc">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="2 Hour Relaxing Piano Music For Stress Relief | Healing Music【BGM】 by The Soul of Wind 2 weeks ago 2 hours 65,772 views" title="2 Hour Relaxing Piano Music For Stress Relief | Healing Music【BGM】">
+            2 Hour Relaxing Piano Music For Stress Relief | Healing Music【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">65K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=ZLcJjoFQPXU">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="2 hours">
+      2:01:31
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=ZLcJjoFQPXU">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="2 Hour Beautiful Piano Music for Stress Relief 【BGM】 by The Soul of Wind 4 months ago 2 hours 124,598 views" title="2 Hour Beautiful Piano Music for Stress Relief 【BGM】">
+            2 Hour Beautiful Piano Music for Stress Relief 【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">124K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=tPwLTIMfzO0">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour">
+      1:00:10
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=tPwLTIMfzO0">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="1 Hour Epic Anime Mix | Best Battle Music | Emotional &amp; Epic Anime OST by The Soul of Wind 1 month ago 1 hour 85,825 views" title="1 Hour Epic Anime Mix | Best Battle Music | Emotional &amp; Epic Anime OST">
+            1 Hour Epic Anime Mix | Best Battle Music | Emotional &amp; Epic Anime OST
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">85K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=8Z5EjAmZS1o">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 56 minutes">
+      1:56:19
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=8Z5EjAmZS1o">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="The Best Of YIRUMA | Yiruma's Greatest Hits ~ Best Piano by Vida Marčiulionytė-Malyginienė\Lithuania 2 years ago 1 hour, 56 minutes 65,179,692 views" title="The Best Of YIRUMA | Yiruma's Greatest Hits ~ Best Piano">
+            The Best Of YIRUMA | Yiruma's Greatest Hits ~ Best Piano
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer byline-separated" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">Vida Marčiulionytė-Malyginienė\Lithuania</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">65M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=WI1xExDWVF0">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="3 hours, 4 minutes">
+      3:04:05
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=WI1xExDWVF0">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="Relaxing Piano Music: Sleep Music, Meditation Music, Soothing Music, Calming Music ★77 by Soothing Relaxation 1 year ago 3 hours, 4 minutes 2,983,527 views" title="Relaxing Piano Music: Sleep Music, Meditation Music, Soothing Music, Calming Music ★77">
+            Relaxing Piano Music: Sleep Music, Meditation Music, Soothing Music, Calming Music ★77
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">Soothing Relaxation</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">2.9M views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=mzq1CJJjQ2g">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour">
+      1:00:49
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=mzq1CJJjQ2g">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="1 Hour Beautiful Piano Music for Stress Relief 【BGM】 by The Soul of Wind 4 months ago 1 hour 738,479 views" title="1 Hour Beautiful Piano Music for Stress Relief 【BGM】">
+            1 Hour Beautiful Piano Music for Stress Relief 【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">738K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=gWNkGDGfMlY">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="4 hours">
+      4:00:52
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=gWNkGDGfMlY">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="4 Hour Anime Mix - Most Beautiful &amp; Emotional Music by The Soul of Wind 1 year ago 4 hours 88,275 views" title="4 Hour Anime Mix - Most Beautiful &amp; Emotional Music">
+            4 Hour Anime Mix - Most Beautiful &amp; Emotional Music
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">88K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=L_Fhs_huI2w">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="2 hours">
+      2:00:19
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=L_Fhs_huI2w">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="2 Hour Beautiful Piano Music - Romantic Love Song 【BGM】 by The Soul of Wind 2 months ago 2 hours 149,596 views" title="2 Hour Beautiful Piano Music - Romantic Love Song 【BGM】">
+            2 Hour Beautiful Piano Music - Romantic Love Song 【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">149K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer><ytd-compact-video-renderer class="style-scope ytd-watch-next-secondary-results-renderer">
+    <div id="dismissable" class="style-scope ytd-compact-video-renderer">
+      <ytd-thumbnail width="168" class="style-scope ytd-compact-video-renderer">
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" href="/watch?v=2KztCovwJNc">
+      <yt-img-shadow class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><img id="img" class="style-scope yt-img-shadow" width="168"></yt-img-shadow>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 2 minutes">
+      1:02:38
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-toggle-button-renderer role="button" tabindex="0" class="style-scope ytd-thumbnail" aria-label="Watch later"><yt-icon class="style-scope ytd-thumbnail-overlay-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M12 3.67c-4.58 0-8.33 3.75-8.33 8.33s3.75 8.33 8.33 8.33 8.33-3.75 8.33-8.33S16.58 3.67 12 3.67zm3.5 11.83l-4.33-2.67v-5h1.25v4.34l3.75 2.25-.67 1.08z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon><paper-tooltip id="tooltip" class="style-scope ytd-thumbnail-overlay-toggle-button-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+      Watch later
+    
+    </div>
+  </paper-tooltip></ytd-thumbnail-overlay-toggle-button-renderer></div>
+    </a>
+  </ytd-thumbnail>
+      <a class="yt-simple-endpoint style-scope ytd-compact-video-renderer" href="/watch?v=2KztCovwJNc">
+        <h3 class="style-scope ytd-compact-video-renderer">
+          <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+          </ytd-badge-supported-renderer>
+          <span id="video-title" class="style-scope ytd-compact-video-renderer" aria-label="1 Hour Beautiful Piano Music | Love Songs | Healing Music【BGM】 by The Soul of Wind 3 weeks ago 1 hour, 2 minutes 59,015 views" title="1 Hour Beautiful Piano Music | Love Songs | Healing Music【BGM】">
+            1 Hour Beautiful Piano Music | Love Songs | Healing Music【BGM】
+          </span>
+        </h3>
+        <ytd-video-meta-block class="compact style-scope ytd-compact-video-renderer" no-endpoints="">
+    
+    
+    <div id="metadata" class="style-scope ytd-video-meta-block">
+      <div id="byline-container" class="style-scope ytd-video-meta-block">
+        <div id="byline-inner-container" class="style-scope ytd-video-meta-block">
+          <yt-formatted-string id="byline" ellipsis-truncate="" class="style-scope ytd-video-meta-block">The Soul of Wind</yt-formatted-string>
+          <ytd-badge-supported-renderer class="style-scope ytd-video-meta-block">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer>
+        </div>
+        <div id="separator" class="style-scope ytd-video-meta-block">•</div>
+      </div>
+      <div id="metadata-line" class="style-scope ytd-video-meta-block">
+        <span class="style-scope ytd-video-meta-block">59K views</span><template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+      </div>
+    </div>
+    <div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
+      <template is="dom-repeat" strip-whitespace="" class="style-scope ytd-video-meta-block"></template>
+    </div>
+    
+  </ytd-video-meta-block>
+        <ytd-badge-supported-renderer class="style-scope ytd-compact-video-renderer" disable-upgrade="" hidden="">
+        </ytd-badge-supported-renderer>
+      </a>
+      <div id="menu" class="style-scope ytd-compact-video-renderer"></div>
+    </div>
+    <div id="dismissed" tabindex="0" class="style-scope ytd-compact-video-renderer"></div>
+  </ytd-compact-video-renderer></div>
+    <div id="continuations" class="style-scope ytd-watch-next-secondary-results-renderer"><yt-next-continuation class="style-scope ytd-watch-next-secondary-results-renderer">
+    
+    <template is="dom-if" class="style-scope yt-next-continuation"></template>
+    
+      <paper-button noink="" class="style-scope yt-next-continuation" role="button" tabindex="0" animated="" aria-disabled="false" elevation="0">
+        <yt-formatted-string class="style-scope yt-next-continuation">Show more</yt-formatted-string>
+      </paper-button>
+    <template is="dom-if" class="style-scope yt-next-continuation"></template>
+  </yt-next-continuation></div>
+  </ytd-watch-next-secondary-results-renderer>
+            <div id="related-skeleton" class="watch-skeleton style-scope ytd-watch"></div>
+          </div>
+          <div id="content-separator" tabindex="0" class="style-scope ytd-watch">
+            
+          </div>
+          <div id="alerts" class="style-scope ytd-watch"></div>
+          <div id="messages" class="style-scope ytd-watch"></div>
+          <div id="info" class="style-scope ytd-watch">
+            <div id="info-skeleton" class="watch-skeleton style-scope ytd-watch"></div>
+            <div id="info-contents" class="style-scope ytd-watch"><ytd-video-primary-info-renderer class="style-scope ytd-watch">
+    <div id="container" class="style-scope ytd-video-primary-info-renderer">
+      <ytd-badge-supported-renderer class="style-scope ytd-video-primary-info-renderer" disable-upgrade="" hidden="">
+      </ytd-badge-supported-renderer>
+      <yt-formatted-string class="super-title style-scope ytd-video-primary-info-renderer"></yt-formatted-string>
+      <h1 class="title style-scope ytd-video-primary-info-renderer">3 Hour Relaxing Piano Music. Healing Music for Stress Relief, Sleep Music【BGM】</h1>
+      <ytd-badge-supported-renderer class="style-scope ytd-video-primary-info-renderer" disable-upgrade="" hidden="">
+      </ytd-badge-supported-renderer>
+      <div id="info" class="style-scope ytd-video-primary-info-renderer">
+        <div id="count" class="style-scope ytd-video-primary-info-renderer"><yt-view-count-renderer class="style-scope ytd-video-primary-info-renderer"><span class="view-count style-scope yt-view-count-renderer">25,004 views</span><span class="short-view-count style-scope yt-view-count-renderer">25K views</span></yt-view-count-renderer></div>
+        <div id="flex" class="style-scope ytd-video-primary-info-renderer"></div>
+        <div id="menu-container" class="style-scope ytd-video-primary-info-renderer">
+          <div id="menu" class="style-scope ytd-video-primary-info-renderer"><ytd-menu-renderer class="style-scope ytd-video-primary-info-renderer">
+    <div id="top-level-buttons" class="style-scope ytd-menu-renderer"><ytd-toggle-button-renderer button-renderer="" class="style-scope ytd-menu-renderer style-text force-icon-button" is-icon-button=""><a is="yt-endpoint" tabindex="-1" class="style-scope ytd-toggle-button-renderer"><button is="paper-icon-button-light" id="button" class="style-scope ytd-toggle-button-renderer style-text" aria-label="like this video along with 1,061 other people" aria-pressed="false"><yt-icon class="style-scope ytd-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1.91l-.01-.01L23 10z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon></button><yt-formatted-string id="text" class="style-scope ytd-toggle-button-renderer style-text" aria-label="1,061 likes">1K</yt-formatted-string></a></ytd-toggle-button-renderer><ytd-toggle-button-renderer button-renderer="" class="style-scope ytd-menu-renderer style-text force-icon-button" is-icon-button=""><a is="yt-endpoint" tabindex="-1" class="style-scope ytd-toggle-button-renderer"><button is="paper-icon-button-light" id="button" class="style-scope ytd-toggle-button-renderer style-text" aria-label="dislike this video along with 14 other people" aria-pressed="false"><yt-icon class="style-scope ytd-toggle-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v1.91l.01.01L1 14c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon></button><yt-formatted-string id="text" class="style-scope ytd-toggle-button-renderer style-text" aria-label="14 dislikes">14</yt-formatted-string></a></ytd-toggle-button-renderer><ytd-button-renderer button-renderer="" class="style-scope ytd-menu-renderer force-icon-button style-default" is-icon-button=""><a is="yt-endpoint" tabindex="-1" class="style-scope ytd-button-renderer"><button is="paper-icon-button-light" id="button" class="style-scope ytd-button-renderer style-default" aria-label="Share"><yt-icon class="style-scope ytd-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        
+        <path d="M14 9V5l7 7-7 7v-4.1c-5 0-8.5 1.6-11 5.1 1-5 4-10 11-11z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon></button><yt-formatted-string id="text" class="style-scope ytd-button-renderer style-default">Share</yt-formatted-string></a></ytd-button-renderer><ytd-button-renderer button-renderer="" class="style-scope ytd-menu-renderer style-default" is-icon-button=""><a is="yt-endpoint" tabindex="-1" class="style-scope ytd-button-renderer"><button is="paper-icon-button-light" id="button" class="style-scope ytd-button-renderer style-default" aria-label="Add to"><yt-icon class="style-scope ytd-button-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path d="M14 10H2v2h12v-2zm0-4H2v2h12V6zm4 8v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zM2 16h8v-2H2v2z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon></button></a></ytd-button-renderer></div>
+    <button is="paper-icon-button-light" id="button" class="dropdown-trigger style-scope ytd-menu-renderer" aria-label="More actions">
+      <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <circle cx="5" cy="12" r="2" class="style-scope yt-icon"></circle><circle cx="12" cy="12" r="2" class="style-scope yt-icon"></circle><circle cx="19" cy="12" r="2" class="style-scope yt-icon"></circle>
+      </g></svg>
+    
+  </yt-icon>
+    </button>
+  </ytd-menu-renderer></div>
+          <ytd-sentiment-bar-renderer id="sentiment" class="style-scope ytd-video-primary-info-renderer" style="width: 126px;">
+    <div id="container" class="style-scope ytd-sentiment-bar-renderer">
+      <div id="like-bar" class="style-scope ytd-sentiment-bar-renderer" style="width: 98%;"></div>
+    </div>
+    <paper-tooltip position="top" class="style-scope ytd-sentiment-bar-renderer" role="tooltip" tabindex="-1">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      1,061 / 14
+    </div>
+  </paper-tooltip>
+  </ytd-sentiment-bar-renderer>
+        </div>
+      </div>
+    </div>
+  </ytd-video-primary-info-renderer></div>
+          </div>
+          <div id="pla-shelf" class="style-scope ytd-watch">
+            <ytd-pla-shelf-renderer class="style-scope ytd-watch">
+    <template is="dom-if" class="style-scope ytd-pla-shelf-renderer"></template>
+  </ytd-pla-shelf-renderer>
+          </div>
+          <div id="report" class="style-scope ytd-watch">
+            <ytd-report-form-loader id="report-form" class="style-scope ytd-watch" disable-upgrade="">
+            </ytd-report-form-loader>
+          </div>
+          <div id="meta" class="style-scope ytd-watch">
+            <div id="meta-skeleton" class="watch-skeleton style-scope ytd-watch"></div>
+            <div id="limited-state" class="style-scope ytd-watch"></div>
+            <div id="meta-contents" class="style-scope ytd-watch"><ytd-video-secondary-info-renderer class="style-scope ytd-watch"><div id="container" class="style-scope ytd-video-secondary-info-renderer"><div id="top-row" class="style-scope ytd-video-secondary-info-renderer"><ytd-video-owner-renderer class="style-scope ytd-video-secondary-info-renderer"><a is="yt-endpoint" class="style-scope ytd-video-owner-renderer" href="/user/Fantasyssmusic" aria-label="The Soul of Wind"><yt-img-shadow id="avatar" width="48" class="style-scope ytd-video-owner-renderer no-transition" style="background-color: transparent;" loaded=""><img id="img" class="style-scope yt-img-shadow" width="48" src="https://yt3.ggpht.com/-HJfArxYO5ys/AAAAAAAAAAI/AAAAAAAAAAA/7dvCNCO8jY8/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"></yt-img-shadow></a><div id="upload-info" class="style-scope ytd-video-owner-renderer"><div id="owner-container" class="style-scope ytd-video-owner-renderer"><yt-formatted-string id="owner-name" class="style-scope ytd-video-owner-renderer"><a class="yt-simple-endpoint style-scope yt-formatted-string" href="/channel/UCUZNK80DemBN3kyxusDLwrA">The Soul of Wind</a></yt-formatted-string><ytd-badge-supported-renderer class="style-scope ytd-video-owner-renderer">
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg>
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      <paper-tooltip role="tooltip" tabindex="-1" class="style-scope ytd-badge-supported-renderer">
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      Verified
+    </div>
+  </paper-tooltip></div>
+    <template is="dom-repeat" id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"></template>
+  </ytd-badge-supported-renderer></div><span class="date style-scope ytd-video-secondary-info-renderer">Published on Oct 3, 2017</span></div><div id="sponsor-button" class="style-scope ytd-video-owner-renderer"></div></ytd-video-owner-renderer><div id="subscribe-button" class="style-scope ytd-video-secondary-info-renderer"><ytd-button-renderer button-renderer="" class="style-scope ytd-video-secondary-info-renderer style-destructive" is-paper-button=""><a is="yt-endpoint" tabindex="-1" class="style-scope ytd-button-renderer"><paper-button role="button" tabindex="0" animated="" aria-disabled="false" elevation="0" id="button" class="style-scope ytd-button-renderer style-destructive"><yt-formatted-string id="text" class="style-scope ytd-button-renderer style-destructive">Subscribe <span class="deemphasize style-scope yt-formatted-string">253K</span></yt-formatted-string></paper-button></a></ytd-button-renderer></div></div><ytd-expander class="description style-scope ytd-video-secondary-info-renderer" collapsed-height="60" collapsed="" style="--ytd-expander-collapsed-height:60px;">
+    <div id="content" class="style-scope ytd-expander">
+      <yt-formatted-string id="description" class="content style-scope ytd-video-secondary-info-renderer" split-lines="">3 Hour Relaxing Piano Music. Healing Music for Stress Relief, Sleep Music【BGM】
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❂ Credits: 
+
+❋ Neal K Sound
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCEkKZ1nzQhIPGCT5Trz6fgQ">https://www.youtube.com/channel/UCEkK...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Ftwitter.com%2Fjsjskim9601">https://twitter.com/jsjskim9601</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fsoundcloud.com%2Fneal-k-1">https://soundcloud.com/neal-k-1</a>
+
+❋ Reve
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCem7QlwuSFS4fvjWAwoho9w">https://www.youtube.com/channel/UCem7...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Freve0711.blog.me%2F">http://reve0711.blog.me/</a>
+
+❋ PianoShaman
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCG-lZppmpOFd8X3zOeh1RMw">https://www.youtube.com/channel/UCG-l...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2FPianoShaman%2F">https://www.facebook.com/PianoShaman/</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fsoundcloud.com%2Fpianoshaman">https://soundcloud.com/pianoshaman</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Fwww.thepicta.com%2Fuser%2Fpianoshaman%2F5019443554">http://www.thepicta.com/user/pianosha...</a>
+
+❋ Mrest
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UC8uJaXvHjsq3TCxa_3XsRrw">https://www.youtube.com/channel/UC8uJ...</a>
+- www.mrest.kr
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Ftwitter.com%2Fmrest1234">https://twitter.com/mrest1234</a>
+
+❋ Yang Su Hyeok
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCj-0zaMXeFVQcKBn8Ty_B4A">https://www.youtube.com/channel/UCj-0...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Fblog.naver.com%2Fmizerableao">http://blog.naver.com/mizerableao</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2Ff.heart.ysh%2F">https://www.facebook.com/f.heart.ysh/</a>
+
+❋ Sereno
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UC0kp1x32b-Y4cvP5r3vW_hw">https://www.youtube.com/channel/UC0kp...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2FSerenopiano%2F">https://www.facebook.com/Serenopiano/</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Fblog.naver.com%2Fwndgns927">http://blog.naver.com/wndgns927</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fsoundcloud.com%2Fserenopiano">https://soundcloud.com/serenopiano</a>
+
+❋ BigRicePiano
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/user/BigRiceRecords">https://www.youtube.com/user/BigRiceR...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fbigrice.bandcamp.com%2F">https://bigrice.bandcamp.com/</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2FRiceIsBig">https://www.facebook.com/RiceIsBig</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Ftwitter.com%2FRiceCanTwit">https://twitter.com/RiceCanTwit</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Finstagram.com%2Fbigricepiano">https://instagram.com/bigricepiano</a>
+
+❋ Peritune　
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Fperitune.com%2F">http://peritune.com/</a>
+
+❋ Derek Fiechter
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w">https://www.youtube.com/channel/UCjMZ...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fdbfiechter.bandcamp.com%2F">https://dbfiechter.bandcamp.com/</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fanime-tales%2Fid979394190">https://itunes.apple.com/us/album/ani...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fdbfiechter.bandcamp.com%2Falbum%2Fanime-tales">https://dbfiechter.bandcamp.com/album...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00V5D1S7U">https://www.amazon.com/gp/product/B00...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fopen.spotify.com%2Fartist%2F2XDOBQOobSTxtmFhWKdm6x">https://open.spotify.com/artist/2XDOB...</a>
+
+❋ OCTOBER
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UC6C51gKI6UqOWOf_Qwz2NgQ">https://www.youtube.com/channel/UC6C5...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100005576256164">https://www.facebook.com/profile.php?...</a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.instagram.com%2Fo_ctober5%2F">https://www.instagram.com/o_ctober5/</a>
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+❂Check out my onee-chan channel:❂
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://www.youtube.com/channel/UCUNZI3Hqsroduip4XSshTfw">https://www.youtube.com/channel/UCUNZ...</a>
+
+❂The Soul of Wind❂
+❋Subscribe:► <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=http%3A%2F%2Fgoo.gl%2FmCaSb4">http://goo.gl/mCaSb4</a>
+❋Fanpage:► <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Fwww.facebook.com%2FAnimeMusicTheSoulofWind%2F">https://www.facebook.com/AnimeMusicTh...</a>
+❋Twitter:► <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/redirect?v=yUjlBfmkO6g&amp;redir_token=QJNccT5DMp689L2K0FMfReQ0BKp8MTUwNzMzODM0NUAxNTA3MjUxOTQ1&amp;event=video_description&amp;q=https%3A%2F%2Ftwitter.com%2Fthesoulofwind1">https://twitter.com/thesoulofwind1</a>
+
+❂ Listen more BGM, Anime and Piano Music: <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23PianoMusic">#PianoMusic</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23BGM">#BGM</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23relaxingmusic">#relaxingmusic</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23beautifulpiano">#beautifulpiano</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23pianomix">#pianomix</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23relaxingpiano">#relaxingpiano</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23AnimeOST">#AnimeOST</a>, <a class="yt-simple-endpoint style-scope yt-formatted-string" href="/results?search_query=%23stressrelief">#stressrelief</a>
+►2 Hour Beautiful Piano: <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://youtu.be/HSOtku1j600" rel="nofollow">https://youtu.be/HSOtku1j600</a>
+►1 Hour Beautiful Kimi no Na wa Piano: <a class="yt-simple-endpoint style-scope yt-formatted-string" href="https://youtu.be/Eth_YQg7ERc" rel="nofollow">https://youtu.be/Eth_YQg7ERc</a>
+
+Track list: 
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=0s">0:00:00</a> Remember you by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=163s">0:02:43</a> 숲속에 미아 혼자서 by Neal K Sound Mia 
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=382s">0:06:22</a> Where the stars fall by Reve
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=592s">0:09:52</a> The Wandering Butterfly by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=768s">0:12:48</a> Let the Wind Carry My Soul to You by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=934s">0:15:34</a> Tears like a cherry by Mrest
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=1189s">0:19:49</a> Flower, Cheer up by Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=1405s">0:23:25</a> A flower of the wind by Reve
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=1625s">0:27:05</a> Moonlight Dance by Mrest
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=1891s">0:31:31</a> Moon Rising at Noon by Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=2136s">0:35:36</a> My Bright Star by Sereno
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=2317s">0:38:37</a> Fairy by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=2571s">0:42:51</a> Sayonara by Mrest
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=2741s">0:45:41</a> Invite “To Me“ by Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=2922s">0:48:42</a> Frühlingsblüte by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=3058s">0:50:58</a> Her Name, September by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=3192s">0:53:12</a> Where the stars fall by Reve
+
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=3412s">0:56:52</a> Butterfly waltz by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=3654s">1:00:54</a> Fox rain by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=3912s">1:05:12</a> The Sound of Rain by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=4162s">1:09:22</a> Flower wind by Acacia Officia
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=4368s">1:12:48</a> Sun and Moon by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=4610s">1:16:50</a> 꽃의노래 ⁄ 花のうた by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=4921s">1:22:01</a> The Lotus Flower by Reve
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=5131s">1:25:31</a> Memory in the Rain - Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=5460s">1:31:00</a> Far Away by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=5678s">1:34:38</a> Big Fish  大魚海棠印象曲 -- 大魚
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=5918s">1:38:38</a> Fairy by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=6170s">1:42:50</a> Begining end by Acacia Official
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=6387s">1:46:27</a> Melancholy2 – Peritune
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=6521s">1:48:41</a> Hotaru no koi by Reve
+
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=6756s">1:52:36</a> I remember you by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=6914s">1:55:14</a> Memories by Derek Fiechter
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7085s">1:58:05</a> The Crimson Wind Chime by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7287s">2:01:27</a> The Wandering Butterfly by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7460s">2:04:20</a> Acacia by OCTOBER
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7651s">2:07:31</a> Dreamland by Derek Fiechter
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7832s">2:10:32</a> Hope by Derek Fiechter
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=7972s">2:12:52</a> Romance by OCTOBER
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=8186s">2:16:26</a> Tears by OCTOBER
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=8395s">2:19:55</a> One afternoon 오후의 어느날 by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=8597s">2:23:17</a> Flower and Butterfly by Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=8850s">2:27:30</a> The Lovely Nightshade by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=9032s">2:30:32</a> Reverie by PianoShaman
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=9215s">2:33:35</a> To You by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=9478s">2:37:58</a> Flower World by Yang Su Hyeok
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=9755s">2:42:35</a> Falling Anthem by Neal K Sound
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=9917s">2:45:17</a> Memories by Derek Fiechter
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=10085s">2:48:05</a> Tears by OCTOBER
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=10288s">2:51:28</a> Dreamland by Derek Fiechter
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=10460s">2:54:20</a> Sun and Moon by BigRicePiano
+<a class="yt-simple-endpoint style-scope yt-formatted-string" href="/watch?v=yUjlBfmkO6g&amp;t=10709s">2:58:29</a> 꽃의노래 ⁄ 花のうた by Neal K Sound
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+✿MUSIC PROMOTION✿
+ If you want to submit a request to promote your music on my channel:
+- Contact me on the facebook (Send me a PM on my facebook page)
+- Or send me an email at: TheSoulofWind@outlook.com
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+★COPYRIGHT / LICENSING★
+
+►All rights belong to their respective owners. If any owner of track/background used in this mix is unhappy, feel free to contact me if anything is wrong: (thesoulofwind@outlook.com)
+- Request to remove a video
+- Adding any kind of information which belongs to the video (audio OR visual - Illustrator, Composer, Publisher, purchase-links...)
+
+───────────────────
+
+_The Soul of Wind_</yt-formatted-string>
+    </div>
+    <ytd-metadata-row-container-renderer class="sticky style-scope ytd-video-secondary-info-renderer">
+    <div id="always-shown" class="style-scope ytd-metadata-row-container-renderer"></div>
+    <div id="collapsible" class="style-scope ytd-metadata-row-container-renderer" hidden=""></div>
+  </ytd-metadata-row-container-renderer>
+    <paper-button id="less" aria-expanded="true" noink="" class="style-scope ytd-expander" role="button" tabindex="0" animated="" aria-disabled="false" elevation="0" hidden="">
+      <yt-formatted-string class="less-button style-scope ytd-video-secondary-info-renderer" role="button">Show less</yt-formatted-string>
+    </paper-button>
+    <paper-button id="more" aria-expanded="false" noink="" class="style-scope ytd-expander" role="button" tabindex="0" animated="" aria-disabled="false" elevation="0">
+      <yt-formatted-string class="more-button style-scope ytd-video-secondary-info-renderer" role="button">Show more</yt-formatted-string>
+    </paper-button>
+  </ytd-expander></div></ytd-video-secondary-info-renderer></div>
+            <div id="offer-module" class="style-scope ytd-watch"></div>
+          </div>
+          <div id="ticket-shelf" class="style-scope ytd-watch"></div>
+          <ytd-comments id="comments" defer-on-watch="" class="style-scope ytd-watch">
+    <ytd-item-section-renderer initial-count="2" class="style-scope ytd-comments">
+    <div id="header" class="style-scope ytd-item-section-renderer"></div>
+    <paper-spinner-lite class="style-scope ytd-item-section-renderer" aria-hidden="true"><div id="spinnerContainer" class="  style-scope paper-spinner-lite"><div class="spinner-layer style-scope paper-spinner-lite"><div class="circle-clipper left style-scope paper-spinner-lite"></div><div class="circle-clipper right style-scope paper-spinner-lite"></div></div></div></paper-spinner-lite>
+    <div id="contents" class="style-scope ytd-item-section-renderer"></div>
+    <div id="continuations" class="style-scope ytd-item-section-renderer"><yt-next-continuation class="style-scope ytd-item-section-renderer">
+    
+    
+      <paper-spinner id="spinner" class="style-scope yt-next-continuation" aria-hidden="true"><div id="spinnerContainer" class="  style-scope paper-spinner"><div class="spinner-layer layer-1 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"></div><div class="circle-clipper right style-scope paper-spinner"></div></div><div class="spinner-layer layer-2 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"></div><div class="circle-clipper right style-scope paper-spinner"></div></div><div class="spinner-layer layer-3 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"></div><div class="circle-clipper right style-scope paper-spinner"></div></div><div class="spinner-layer layer-4 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"></div><div class="circle-clipper right style-scope paper-spinner"></div></div></div></paper-spinner>
+    <template is="dom-if" class="style-scope yt-next-continuation"></template>
+    <template is="dom-if" class="style-scope yt-next-continuation"></template>
+  </yt-next-continuation></div>
+  </ytd-item-section-renderer>
+  </ytd-comments>
+        </div>
+      </div>

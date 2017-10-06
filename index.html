@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Youtube Murals</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+        <style>
+            body {
+                font-family: 'Merriweather';
+                text-align: center;
+            }
+            #about {
+                text-align:left;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Youtube Murals</h1>
+        <h3><i>Visualizing topic change over time in videos</i></h3>
+        <div style="width:100%"><div style="margin:auto; width: 640px">
+            <div id="player"></div><br>
+            <div style="position: relative">
+                <div style="height: 100px; border: 1px solid white; z-index: 1; position: absolute; left: 100px" id="currentPosition"></div>
+                <img src="topicogramtest60-10.png" id="topigram" style="width: 640px; height: 100px">
+            </div>
+        </div>
+        <div id="about" style="margin:auto; width: 640px">
+            <p><b>About: </b>YouTube Murals are data paintings serving as a solution for accessible video navigation.
+                What started off as an idea for a creative coding sketch turned into a new art project presenting enormous implications for YouTube.  
+                YouTube demonstrated their commitment to accessibility with closed captions, yet this is just the beginning. 
+                This is one more approach that can contribute to this.
+            </p>
+        </div>
+        <script>
+            var ntopics = 5;
+            var vidLength = 2900;
+            $(function() {
+                $("#topigram").mousedown(function(e) {
+                    var x = e.offsetX;
+                    var percentX = x / e.currentTarget.width;
+                    var y = e.offsetY;
+                    var percentY = x / e.currentTarget.height;
+                    var topic = Math.floor(percentY * ntopics);
+                    player.seekTo(Math.floor(percentX * vidLength));
+                })
+
+                $("#topigram").mouseover(function(e) {
+                })
+
+                setInterval(function() {
+                    if (player && player.getCurrentTime && YT.PlayerState.PLAYING) {
+                        var time = player.getCurrentTime();
+                        var w = $("#topigram").width();
+                        var x = time / vidLength * w;
+                        $("#currentPosition").css("left", x);
+                    }
+                }, 200);
+            })
+
+            var tag = document.createElement('script');
+            tag.src = "https://youtube.com/iframe_api";
+            
+            var firstTag = document.getElementsByTagName('script')[0];
+            firstTag.parentNode.insertBefore(tag, firstTag);
+
+            var player;
+            function onYouTubeIframeAPIReady() {
+                player = new YT.Player('player', {
+                    height: '390',
+                    width: '640',
+                    videoId: 'rpJgJkzHgV8',
+                    events: {
+                        'onReady': onPlayerReady
+                    }
+                });
+            }
+
+            function onPlayerReady(event) {
+                event.target.playVideo();
+            }
+        </script>
+    </body>
+</html>
