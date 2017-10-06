@@ -24,7 +24,9 @@
 
             <div style="position: relative">
                 <div style="height: 100px; border: 1px solid white; z-index: 1; position: absolute; left: 100px" id="currentPosition"></div>
-                <img src="topicogramtest60-10.png" id="topigram" style="width: 640px; height: 100px">
+                <!--<img src="topicogramtest60-10.png" id="topigram" style="width: 640px; height: 100px">-->
+                <img src="multiplanetary-species-60-5-200.png" id="topigram" style="width: 640px; height: 100px">
+                
             </div>
         </div>
         <div id="about" style="margin:auto; width: 640px">
@@ -36,7 +38,8 @@
         </div>
         <script>
             var ntopics = 5;
-            var vidLength = 2900;
+            //var vidLength = 2900;
+            var vidLength = 3885;
             $(function() {
                 $("#topigram").mousedown(function(e) {
                     var x = e.offsetX;
@@ -71,7 +74,8 @@
                 player = new YT.Player('player', {
                     height: '390',
                     width: '640',
-                    videoId: 'rpJgJkzHgV8',
+                    //videoId: 'rpJgJkzHgV8',
+                    videoId: 'H7Uyfqi_TE8',
                     events: {
                         'onReady': onPlayerReady
                     }
